@@ -3,11 +3,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsdavisouza)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdavisvc)
 
-![Davi Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdavisvc&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devdavisvc&theme=tokyonight)](https://git.io/streak-stats)
+
+![Davi Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdavisvc&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavisvc&langs_count=8&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=devdavisvc&theme=tokyonight)](https://git.io/streak-stats)
 
 ### Mastered Technologies
 
