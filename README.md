@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavisvc&langs_count=8&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=devdavisvc&theme=tokyonight)](https://git.io/streak-stats)
+
 ### Mastered Technologies
 
 <div style="display: inline-block">
